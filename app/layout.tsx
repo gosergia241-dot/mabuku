@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Mabuku - Bibliothèque Numérique',
-  description: 'Plateforme de gestion de bibliothèque numérique',
+  description: 'Votre bibliothèque numérique complète',
 }
 
 export default function RootLayout({
